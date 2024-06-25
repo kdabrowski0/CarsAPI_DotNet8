@@ -1,0 +1,10 @@
+@CarsAPI_DotNet8_HostAddress = https://localhost:7277
+
+GET {{CarsAPI_DotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CarsAPI_DotNet8_HostAddress}}/weatherforecast
+
+###
